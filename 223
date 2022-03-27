@@ -1,0 +1,9 @@
+# and `git log` will show author fields that look like
+#	Rodney Grimes <rgrimes@FreeBSD.org>
+# instead of
+#	user <user@aed309b6-a8cd-e111-996c-001c23d10e55>.
+# when users could be removed is if they no longer have an account and
+# never committed.
+
+0mp = Mateusz Piotrowski <0mp@FreeBSD.org>
+aaron = Aaron Dalton <aaron@FreeBSD.org> 
